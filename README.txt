@@ -10,7 +10,7 @@ Contents:
 
 Errors/ Bugs/ Etc:
 	
-
+	no 'canvas' yet
 
 How to handle the JS-1 files to get results:
 
